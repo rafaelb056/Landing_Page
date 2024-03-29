@@ -4,7 +4,7 @@
 
 test to flexbox
 
-![prepreviewor del projecto](<Screenshot_test_to_flexbox .png>)
+![prepreviewor del projecto](<fotodelprojecto.png>)
 
 esto es un projecto de hacer flexbox
 
