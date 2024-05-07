@@ -6,7 +6,7 @@ Landing Page
 
 ![prepreviewor del projecto](<fotodelprojecto.png>)
 
-esto es un projecto de hacer flexbox
+esto es un projecto de hacer una pagina de flexbox
 
 ## Built With
 
